@@ -1,55 +1,44 @@
-<h1 align="center">🚀 ZiiHost Project Rebranding</h1>
-<p align="center">From portfolio... to a hosting powerhouse.</p>
+
+🔗 Repo: [https://github.com/ziihost/portofolio](https://github.com/ziihost/portofolio)  
+🌐 Website: [https://ziihost.store](https://ziihost.store)
 
 ---
 
-## 🔁 What Changed?
+## ⚙️ Tech Stack
 
-> This project has officially transitioned from a personal identity to a professional brand.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+</p>
 
-| Before                  | Now                       |
-|-------------------------|----------------------------|
-| `fauzialifatah/web-portofolio` | [`ziihost/portofolio`](https://github.com/ziihost/portofolio) |
-| Personal Showcase       | Company Portfolio          |
-| Individual Repo         | Brand Repository under ZiiHost |
-| Static Visual Only      | Dynamic Hosting Portfolio |
-
----
-
-## 🧠 Why ZiiHost?
-
-🎯 **Focused Vision**: Not just personal branding — this is infrastructure.  
-🔒 **Professional Identity**: SSL, Panel, VPS, Domain, Server, all under one brand.  
-🌐 **One Gateway**: [`ziihost.store`](https://ziihost.store) is now the official base of operations.
+> 🔥 Built with clean HTML structure, responsive CSS, and dynamic behavior using vanilla JS.
 
 ---
 
-## 📂 Structure Updated
+## ✨ Why the Change?
 
-- ✅ New assets folder  
-- ✅ Modern UI + Hosting Showcase  
-- ✅ Rewritten intro & portfolio sections  
-- ✅ Performance-focused deployment
-
----
-
-## 💡 Action Required
-
-If you were using this repo before:
-
-🔗 Update your bookmarks to:  
-[`https://github.com/ziihost/portofolio`](https://github.com/ziihost/portofolio)
-
-🧭 Visit official portfolio site:  
-[`https://ziihost.store`](https://ziihost.store)
+- ✅ Rebranding untuk identitas profesional  
+- 🌐 Domain dan layanan terpusat di `ziihost.store`  
+- 📈 Portofolio kini menjadi etalase resmi layanan hosting & digital ZiiHost
 
 ---
 
-## 🤝 Contact
+## 📎 Apa yang Harus Dilakukan?
 
-📧 Email: [support@ziihost.store](mailto:support@ziihost.store)  
-📱 Social: [Heylink.me/Fauzialifatah](https://heylink.me/fauzialifatah)
+Jika kamu menggunakan versi lama:
+
+1. Ganti referensi repositori ke repo baru  
+2. Update bookmark ke: [`https://ziihost.store`](https://ziihost.store)  
+3. Cek update desain dan fitur terbaru di sana!
 
 ---
 
-<h3 align="center">⚡ Built for creators. Hosted by experts. Welcome to ZiiHost.</h3>
+## 📬 Kontak
+
+- ✉️ Email: [support@ziihost.store](mailto:support@ziihost.store)  
+- 🔗 Social & layanan: [Heylink.me/Fauzialifatah](https://heylink.me/fauzialifatah)
+
+---
+
+<h3 align="center">💼 From Dev to Deploy — Welcome to ZiiHost.</h3>
