@@ -1,47 +1,51 @@
-# 📝 Rename Project: Portofolio ZiiHost
 
-Halo semuanya! 👋
-
-Dengan semangat baru dan arah yang lebih jelas, kami mengumumkan bahwa **project portofolio ini telah resmi berganti nama dan identitas** menjadi bagian dari brand utama kami: **ZiiHost**.
+🟢 Situs Resmi: [https://ziihost.store](https://ziihost.store)  
+🟢 Repo GitHub: [github.com/ziihost/portofolio](https://github.com/ziihost/portofolio)
 
 ---
 
-## 🔄 Nama Lama
-**`fauzialifatah/web-portofolio`**
+## ✨ Mengapa Berganti Nama?
 
-## 🆕 Nama Baru
-**`ziihost/portofolio`**  
-🌐 [https://ziihost.store](https://ziihost.store)
+Perubahan ini bukan sekadar kosmetik. Ini adalah _statement_ bahwa:
 
----
-
-## ✨ Alasan Perubahan
-
-🚀 **Rebranding Penuh:** Kami berkembang dari proyek personal menjadi layanan profesional hosting & digital.  
-🎯 **Fokus yang Lebih Jelas:** Portofolio kini merepresentasikan identitas dan layanan ZiiHost.  
-🌐 **Konsistensi Branding:** Semua produk & layanan kini terintegrasi di bawah domain `ziihost.store`.
+- 🧠 Kami bertransformasi dari proyek individu menjadi brand profesional
+- 🌐 ZiiHost hadir sebagai identitas layanan digital yang **terpercaya dan scalable**
+- 🎯 Portofolio ini kini mencerminkan standar dan visi ZiiHost ke depan
 
 ---
 
-## 📌 Perubahan Apa Saja?
+## 🔍 Apa yang Berubah?
 
-- Struktur dan konten tetap, tapi identitas visual diperbarui
-- Semua dokumentasi & link akan mengarah ke domain baru
-- Proyek ini menjadi showcase resmi brand **ZiiHost**
-
----
-
-## ⚠️ Penting!
-
-👉 **Repositori ini sudah tidak diperbarui lagi**  
-✅ Silakan kunjungi dan gunakan repo terbaru:  
-[🔗 https://github.com/ziihost/portofolio](https://github.com/ziihost/portofolio)
+| Komponen       | Sebelumnya                     | Sekarang                       |
+|----------------|--------------------------------|--------------------------------|
+| Branding       | `fauzialifatah` (individual)   | `ZiiHost` (entitas profesional)|
+| Domain         | Tidak tersedia                 | [`ziihost.store`](https://ziihost.store) |
+| Visual & UI    | Sederhana                      | Lebih modern dan konsisten     |
+| Arah Project   | Showcase pribadi               | Portofolio resmi brand ZiiHost |
 
 ---
 
-Terima kasih telah mengikuti perjalanan kami.  
-Kami akan terus tumbuh dan memberikan solusi digital terbaik. 🌟
+## 📎 Apa yang Perlu Dilakukan?
 
-Salam hangat,  
-**Tim ZiiHost**  
-📬 [support@ziihost.store](mailto:support@ziihost.store) | 🌐 [ziihost.store](https://ziihost.store)
+- Jika Anda mengikuti proyek ini, pindahlah ke repo baru:  
+  👉 [`github.com/ziihost/portofolio`](https://github.com/ziihost/portofolio)
+  
+- Jika Anda pernah membagikan link lama, mohon perbarui ke alamat baru
+
+---
+
+## 📬 Hubungi Kami
+
+Butuh informasi lebih lanjut?  
+Silakan hubungi kami di:
+
+- 🌐 Website: [https://ziihost.store](https://ziihost.store)
+- 📧 Email: [support@ziihost.store](mailto:support@ziihost.store)
+- 🧑‍💻 Instagram/Telegram/YouTube: lihat [Heylink ZiiHost](https://heylink.me/fauzialifatah)
+
+---
+
+> 🚀 Ini bukan akhir dari proyek lama — ini adalah awal dari sesuatu yang lebih besar bersama **ZiiHost**.
+
+Terima kasih telah menjadi bagian dari perjalanan kami 🙏  
+**— Tim ZiiHost**
