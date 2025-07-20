@@ -1,5 +1,5 @@
 
-🔗 Repo: [https://github.com/ziihost/portofolio](https://github.com/ziihost/portofolio)  
+🔗 Repo: [https://github.com/ziihost/portofolio]()  
 🌐 Website: [https://ziihost.store](https://ziihost.store)
 
 ---
@@ -13,32 +13,3 @@
 </p>
 
 > 🔥 Built with clean HTML structure, responsive CSS, and dynamic behavior using vanilla JS.
-
----
-
-## ✨ Why the Change?
-
-- ✅ Rebranding untuk identitas profesional  
-- 🌐 Domain dan layanan terpusat di `ziihost.store`  
-- 📈 Portofolio kini menjadi etalase resmi layanan hosting & digital ZiiHost
-
----
-
-## 📎 Apa yang Harus Dilakukan?
-
-Jika kamu menggunakan versi lama:
-
-1. Ganti referensi repositori ke repo baru  
-2. Update bookmark ke: [`https://ziihost.store`](https://ziihost.store)  
-3. Cek update desain dan fitur terbaru di sana!
-
----
-
-## 📬 Kontak
-
-- ✉️ Email: [support@ziihost.store](mailto:support@ziihost.store)  
-- 🔗 Social & layanan: [Heylink.me/Fauzialifatah](https://heylink.me/fauzialifatah)
-
----
-
-<h3 align="center">💼 From Dev to Deploy — Welcome to ZiiHost.</h3>
