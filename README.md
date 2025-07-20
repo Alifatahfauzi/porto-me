@@ -1,51 +1,55 @@
-
-🟢 Situs Resmi: [https://ziihost.store](https://ziihost.store)  
-🟢 Repo GitHub: [github.com/ziihost/portofolio](https://github.com/ziihost/portofolio)
-
----
-
-## ✨ Mengapa Berganti Nama?
-
-Perubahan ini bukan sekadar kosmetik. Ini adalah _statement_ bahwa:
-
-- 🧠 Kami bertransformasi dari proyek individu menjadi brand profesional
-- 🌐 ZiiHost hadir sebagai identitas layanan digital yang **terpercaya dan scalable**
-- 🎯 Portofolio ini kini mencerminkan standar dan visi ZiiHost ke depan
+<h1 align="center">🚀 ZiiHost Project Rebranding</h1>
+<p align="center">From portfolio... to a hosting powerhouse.</p>
 
 ---
 
-## 🔍 Apa yang Berubah?
+## 🔁 What Changed?
 
-| Komponen       | Sebelumnya                     | Sekarang                       |
-|----------------|--------------------------------|--------------------------------|
-| Branding       | `fauzialifatah` (individual)   | `ZiiHost` (entitas profesional)|
-| Domain         | Tidak tersedia                 | [`ziihost.store`](https://ziihost.store) |
-| Visual & UI    | Sederhana                      | Lebih modern dan konsisten     |
-| Arah Project   | Showcase pribadi               | Portofolio resmi brand ZiiHost |
+> This project has officially transitioned from a personal identity to a professional brand.
 
----
-
-## 📎 Apa yang Perlu Dilakukan?
-
-- Jika Anda mengikuti proyek ini, pindahlah ke repo baru:  
-  👉 [`github.com/ziihost/portofolio`](https://github.com/ziihost/portofolio)
-  
-- Jika Anda pernah membagikan link lama, mohon perbarui ke alamat baru
+| Before                  | Now                       |
+|-------------------------|----------------------------|
+| `fauzialifatah/web-portofolio` | [`ziihost/portofolio`](https://github.com/ziihost/portofolio) |
+| Personal Showcase       | Company Portfolio          |
+| Individual Repo         | Brand Repository under ZiiHost |
+| Static Visual Only      | Dynamic Hosting Portfolio |
 
 ---
 
-## 📬 Hubungi Kami
+## 🧠 Why ZiiHost?
 
-Butuh informasi lebih lanjut?  
-Silakan hubungi kami di:
-
-- 🌐 Website: [https://ziihost.store](https://ziihost.store)
-- 📧 Email: [support@ziihost.store](mailto:support@ziihost.store)
-- 🧑‍💻 Instagram/Telegram/YouTube: lihat [Heylink ZiiHost](https://heylink.me/fauzialifatah)
+🎯 **Focused Vision**: Not just personal branding — this is infrastructure.  
+🔒 **Professional Identity**: SSL, Panel, VPS, Domain, Server, all under one brand.  
+🌐 **One Gateway**: [`ziihost.store`](https://ziihost.store) is now the official base of operations.
 
 ---
 
-> 🚀 Ini bukan akhir dari proyek lama — ini adalah awal dari sesuatu yang lebih besar bersama **ZiiHost**.
+## 📂 Structure Updated
 
-Terima kasih telah menjadi bagian dari perjalanan kami 🙏  
-**— Tim ZiiHost**
+- ✅ New assets folder  
+- ✅ Modern UI + Hosting Showcase  
+- ✅ Rewritten intro & portfolio sections  
+- ✅ Performance-focused deployment
+
+---
+
+## 💡 Action Required
+
+If you were using this repo before:
+
+🔗 Update your bookmarks to:  
+[`https://github.com/ziihost/portofolio`](https://github.com/ziihost/portofolio)
+
+🧭 Visit official portfolio site:  
+[`https://ziihost.store`](https://ziihost.store)
+
+---
+
+## 🤝 Contact
+
+📧 Email: [support@ziihost.store](mailto:support@ziihost.store)  
+📱 Social: [Heylink.me/Fauzialifatah](https://heylink.me/fauzialifatah)
+
+---
+
+<h3 align="center">⚡ Built for creators. Hosted by experts. Welcome to ZiiHost.</h3>
